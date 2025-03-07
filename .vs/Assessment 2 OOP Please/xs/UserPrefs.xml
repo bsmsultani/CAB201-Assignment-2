@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{5322311C-2022-44A1-9BE8-ECC9B28BFAC4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Assessment_2202_220OOP_220Please PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Database/DBMS.cs">
+    <Files>
+      <File FileName="Events/Registeration.cs" Line="38" Column="18" />
+      <File FileName="Program.cs" Line="11" Column="58" />
+      <File FileName="Database/DBMS.cs" Line="9" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assessment 2 OOP Please" expanded="True">
+            <Node name="Assessment 2 OOP Please" expanded="True">
+              <Node name="Database" expanded="True" />
+              <Node name="Display" expanded="True" />
+              <Node name="Events" expanded="True" />
+              <Node name="IO" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
